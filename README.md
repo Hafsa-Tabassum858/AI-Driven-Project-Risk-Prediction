@@ -48,27 +48,14 @@ Traditional project tracking reacts to risks after delays occur. This project in
 
 ## 📸 Screenshots
 Backlog-view.png
-
 Confluence-doc.png
-
 Confluence-timeline.png
-
 Dashboard-3.png
-
 JIRA BOARD.png
-
-README.md
-
 Risk-model-sheet.png
-
-SCREENSHOTS
-
 Slack-risk-alert.png
-
 dashboard-2.png
-
 dashboard-4.png
-
 issue-tracking.png
 jira-dashboard.png
 
