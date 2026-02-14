@@ -57,5 +57,5 @@ Slack-risk-alert.png
 dashboard-2.png
 dashboard-4.png
 issue-tracking.png
-jira-dashboard.png
+![image alt](https://github.com/Hafsa-Tabassum858/AI-Driven-Project-Risk-Prediction/blob/main/jira-dashboard.png)
 
