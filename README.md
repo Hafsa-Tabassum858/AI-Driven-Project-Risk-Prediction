@@ -51,7 +51,7 @@ Backlog-view.png
 Confluence-doc.png
 Confluence-timeline.png
 Dashboard-3.png
-JIRA BOARD.png)
+![image alt](https://github.com/Hafsa-Tabassum858/AI-Driven-Project-Risk-Prediction/blob/94296c60a2210413e1b3dee1bbad73753cb8d644/JIRA%20BOARD.png)
 Risk-model-sheet.png
 Slack-risk-alert.png
 dashboard-2.png
