@@ -47,7 +47,7 @@ Traditional project tracking reacts to risks after delays occur. This project in
 ---
 
 ## 📸 Screenshots
-Backlog-view.png
+![image alt](https://github.com/Hafsa-Tabassum858/AI-Driven-Project-Risk-Prediction/blob/main/Backlog-view.png)
 Confluence-doc.png
 Confluence-timeline.png
 Dashboard-3.png
