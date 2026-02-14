@@ -51,8 +51,7 @@ Backlog-view.png
 Confluence-doc.png
 Confluence-timeline.png
 Dashboard-3.png
-[![My Screenshot](screenshots/JIRA BOARD.png)](screenshots/JIRA BOARD.png)
-![Jira Board](screenshots/JIRA BOARD.png)
+JIRA BOARD.png)
 Risk-model-sheet.png
 Slack-risk-alert.png
 dashboard-2.png
