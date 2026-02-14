@@ -47,15 +47,15 @@ Traditional project tracking reacts to risks after delays occur. This project in
 ---
 
 ## 📸 Screenshots
-![image alt](https://github.com/Hafsa-Tabassum858/AI-Driven-Project-Risk-Prediction/blob/main/Backlog-view.png)
-Confluence-doc.png
-Confluence-timeline.png
-Dashboard-3.png
 ![image alt](https://github.com/Hafsa-Tabassum858/AI-Driven-Project-Risk-Prediction/blob/94296c60a2210413e1b3dee1bbad73753cb8d644/JIRA%20BOARD.png)
-Risk-model-sheet.png
-Slack-risk-alert.png
-![image alt](https://github.com/Hafsa-Tabassum858/AI-Driven-Project-Risk-Prediction/blob/main/dashboard-2.png)
-dashboard-4.png
-issue-tracking.png
+![image alt](https://github.com/Hafsa-Tabassum858/AI-Driven-Project-Risk-Prediction/blob/main/Backlog-view.png)
 ![image alt](https://github.com/Hafsa-Tabassum858/AI-Driven-Project-Risk-Prediction/blob/main/jira-dashboard.png)
-
+![image alt](https://github.com/Hafsa-Tabassum858/AI-Driven-Project-Risk-Prediction/blob/main/dashboard-2.png)
+![image alt](https://github.com/Hafsa-Tabassum858/AI-Driven-Project-Risk-Prediction/blob/main/Dashboard-3.png)
+![image alt](https://github.com/Hafsa-Tabassum858/AI-Driven-Project-Risk-Prediction/blob/main/dashboard-4.png)
+![image alt](https://github.com/Hafsa-Tabassum858/AI-Driven-Project-Risk-Prediction/blob/main/Backlog-view.png)
+![image alt](https://github.com/Hafsa-Tabassum858/AI-Driven-Project-Risk-Prediction/blob/main/Confluence-timeline.png)
+![image alt](https://github.com/Hafsa-Tabassum858/AI-Driven-Project-Risk-Prediction/blob/main/Confluence-doc.png)
+![image alt](https://github.com/Hafsa-Tabassum858/AI-Driven-Project-Risk-Prediction/blob/e91591deb878a6e59b35f3b5fcee9248d174dbe4/issue-tracking.png)
+![image alt](https://github.com/Hafsa-Tabassum858/AI-Driven-Project-Risk-Prediction/blob/main/Risk-model-sheet.png)
+![image alt](https://github.com/Hafsa-Tabassum858/AI-Driven-Project-Risk-Prediction/blob/main/Slack-risk-alert.png)
